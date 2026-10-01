@@ -96,4 +96,3 @@ Der Signaltest ersetzt keinen OSC-Empfangstest. Der Eye-Puppet-Menüpfad wurde n
 Siehe [CHANGELOG.md](CHANGELOG.md). Fehlerberichte bitte mit Unity-/SDK-/MA-/VRCFury-Version, verwendeten Parametern und reproduzierbaren Schritten einreichen; keine gekauften Avatar-Assets hochladen.
 
 Für dieses Repository wurde noch keine Open-Source-Lizenz festgelegt.
-
