@@ -96,3 +96,9 @@ Der Signaltest ersetzt keinen OSC-Empfangstest. Der Eye-Puppet-Menüpfad wurde n
 Siehe [CHANGELOG.md](CHANGELOG.md). Fehlerberichte bitte mit Unity-/SDK-/MA-/VRCFury-Version, verwendeten Parametern und reproduzierbaren Schritten einreichen; keine gekauften Avatar-Assets hochladen.
 
 Für dieses Repository wurde noch keine Open-Source-Lizenz festgelegt.
+
+## KI-Hinweis / AI disclosure
+
+Dieses Projekt wird mit Unterstützung künstlicher Intelligenz entwickelt und dokumentiert. Der Hinweis beschreibt die Entwicklung und bedeutet nicht, dass das Programm selbst KI-Funktionen verwendet.
+
+This project is developed and documented with assistance from artificial intelligence. This disclosure describes the development process; it does not imply that the software itself uses AI features.
